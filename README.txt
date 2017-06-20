@@ -1,1 +1,1 @@
-Universal Remote Controller Using Android and Arduino
+Universal Remote (With a Leran mode) Controller Using Android and Arduino
